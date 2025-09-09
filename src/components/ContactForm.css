@@ -1,0 +1,8 @@
+.carousel {
+  width: 100%;
+}
+
+.carousel img {
+  width: auto;
+  max-height: 640px;
+}
